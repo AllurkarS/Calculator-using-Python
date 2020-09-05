@@ -1,1 +1,1 @@
-# Calculator-using-Python
+A simple GUI calculator using Tkinter module
